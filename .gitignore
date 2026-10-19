@@ -1,0 +1,1 @@
+.env\n__pycache__/\n*.py[cod]\nbotclimatico.db\n*.nc\n.venv/\nvenv/\n
